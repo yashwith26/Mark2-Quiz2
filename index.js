@@ -37,7 +37,7 @@ function play(question, answer) {
 
 var questions = [
   {
-    question: "1. Who won the innaugural season of IPL? ",
+    question: "1. Who won the inaugural season of IPL? ",
     answer: "rajasthan royals"
   },
 
